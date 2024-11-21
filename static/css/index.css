@@ -6,7 +6,7 @@
     height: 35px;
     background-color: lightskyblue;
     padding: 15px;
-    max-width: 600px;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 3px;
@@ -19,13 +19,14 @@
     margin-left: auto;
     margin-top: 15px;
     max-width: 500px;
-    padding: 15px;display: flex;
+    padding: 15px;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
 
 #summary-div {
-    min-width: 250px;
+    min-width: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -34,7 +35,7 @@
 }
 
 #headshot-div {
-    min-width: 250px;
+    min-width: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
