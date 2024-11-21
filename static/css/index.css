@@ -1,6 +1,6 @@
-#main-div {
+body {
     width: 100vw;
-    min-height: 100vh;
+    height: 100vh;
 }
 
 #header-div {
@@ -10,7 +10,7 @@
     height: 35px;
     background-color: lightskyblue;
     padding: 15px;
-    width: 100%;
+    max-width: 600px;
 }
 
 #bio-div {
@@ -19,6 +19,6 @@
     margin-left: auto;
     margin-top: 30px;
     max-width: 500px;
-    height: 200px;
+    height: 300px;
     padding: 15px;
 }
